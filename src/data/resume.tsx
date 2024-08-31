@@ -109,7 +109,7 @@ export const DATA = {
     {
       school: "Chandigarh University",
       href: "",
-      degree: "Bachelor's Degree of engeering (B.Sc)",
+      degree: "Bachelor of Engineering Computer Science and Engineering  2016-2020",
       logoUrl: "/Chandigarh_University_Seal.png",
       start: "2016",
       end: "2020",
