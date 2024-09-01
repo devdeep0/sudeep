@@ -8,7 +8,7 @@ export const DATA = {
   location: "Zirakpur",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Crypto Enthusiast",
+    "Blockchain enthusiast turned crypto trader and community helper. Iam into playing moba games and helping people. Very active on Telegram, Discord & Reddit.",
   summary:
     "Crypto Trader turned community maximalist with background of  video editing and content writing While passionate about comic books and MMA",
   avatarUrl: "/Screenshot_2024-09-01_at_2.42.13_AM.png",
