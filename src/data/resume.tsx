@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon, Tags } from "lucide-react";
 export const DATA = {
   name: "Sudip Pandey",
   initials: "DV",
-  url: "https://dillion.io",
+  url: "",
   location: "Zirakpur",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
@@ -95,10 +95,10 @@ export const DATA = {
       href: "",
       badges: [],
       location: "San Jose, CA",
-      title: "Community Moderator 2022 December - Present",
+      title: "Community Moderator, moderate telegram, discord & reddit community. Organised various contests, hold quizes and community connects weekly",
       logoUrl: "/logo/IMG_0253.jpg",
-      start: "January 2019",
-      end: "April 2019",
+      start: "December 2022",
+      end: "Presently Working",
       description:
         "",
     },
